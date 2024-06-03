@@ -47,10 +47,6 @@ python main.py
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 
 ## Acknowledgements
 
@@ -61,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or questions, please contact shashivadan99@gmail.com.
+For any inquiries or questions, please contact indrajeetsharma2001@gmail.com.
 
 Feel free to customize this README to provide additional information or make it more specific to your project.
 
