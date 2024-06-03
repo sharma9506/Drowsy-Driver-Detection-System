@@ -1,5 +1,5 @@
 Python
-OpenCV (cv2)
+OpenCV
 dlib
 NumPy
 Flask
