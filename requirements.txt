@@ -1,0 +1,6 @@
+Python
+OpenCV (cv2)
+dlib
+NumPy
+Flask
+Pygame
